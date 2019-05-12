@@ -1,0 +1,74 @@
+body
+{
+  padding:0px;
+  margin:0px;
+}
+
+{
+   background-color:#1A3333;
+   color:white;
+
+   top:0px;
+   width:100%;
+   padding:4px;
+}
+footer{
+  clear: both;
+
+  background-color:#999999;
+  width: 900px;
+  padding: :10px;
+  color: white;
+  text-align:center;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=date] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=datetime-local] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=submit]{
+  width: 100px;
+  height: 30px;
+}
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+option{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+
+}
+form
+{
+width:40%;
+padding:40px;
+
+margin:15px auto;
+}
+.textInput
+{
+margin-top:2px;
+height:50px;
+border:1px solid #5E6E66;
+
+padding:1px;
+width:100px;
+}
